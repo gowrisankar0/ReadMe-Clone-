@@ -1,24 +1,28 @@
-# hlsdla, # [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)  
+# Readme clone, # [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
   
   ## Description  
 
-  jkdf;af
+  The read me file was created using node js 
   
   ## Installation Instructions 
 
-  ```
-  kjfhjlfd
-njlsfllaf'
-fsjhlf
-```
+   ``` 
+    npm init -y
+    npm run dev 
+    npm start
+    npx create-react-app
+    npm install inquirer
+
+    ```
 
   ## Usage Instructions 
 
-  fhlfahjdf
-hdftoqwh
-nalhfhal
+    ```
+    This like wise Html based module.
+    To show about project discription. 
+    ```
 
   ## Contributions 
   
-  goeihfkfs,fjjhjlsdf
+  Gowri sankar
   
